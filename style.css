@@ -1,0 +1,25 @@
+/* Adicionando um estilo simples para o cabeçalho */
+header {
+    background-color: #0044cc;
+    padding: 10px 0;
+    color: white;
+}
+
+header img.logo {
+    height: 50px;
+}
+
+section h2 {
+    color: #0044cc;
+}
+
+/* Adicionando um espaçamento nos cards de produtos */
+.card {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #0044cc;
+    padding: 15px;
+    color: white;
+}
